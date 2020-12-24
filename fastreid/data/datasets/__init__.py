@@ -37,6 +37,7 @@ from .cuhk_sysu import cuhkSYSU
 
 # Vehicle re-id datasets
 from .veri import VeRi
+from .apm_veri import APM_VeRi
 from .vehicleid import VehicleID, SmallVehicleID, MediumVehicleID, LargeVehicleID
 from .veriwild import VeRiWild, SmallVeRiWild, MediumVeRiWild, LargeVeRiWild
 

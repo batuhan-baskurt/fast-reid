@@ -7,6 +7,7 @@ _ext
 *.pyc
 *.pyd
 *.so
+
 *.dll
 *.egg-info/
 build/
@@ -35,3 +36,9 @@ model_ts*.txt
 .vscode
 _darcs
 .DS_Store
+
+logs/
+.ipynb_checkpoints
+logs
+datasets/APM_VeRi
+
