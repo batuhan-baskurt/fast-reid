@@ -21,8 +21,6 @@ from .AirportALERT import AirportALERT
 from .iLIDS import iLIDS
 from .pku import PKU
 from .prai import PRAI
-from .prid import PRID
-from .grid import GRID
 from .saivt import SAIVT
 from .sensereid import SenseReID
 from .sysu_mm import SYSU_mm
@@ -37,6 +35,7 @@ from .cuhk_sysu import cuhkSYSU
 
 # Vehicle re-id datasets
 from .veri import VeRi
+from .apm import APM
 from .apm_veri import APM_VeRi
 from .vehicleid import VehicleID, SmallVehicleID, MediumVehicleID, LargeVehicleID
 from .veriwild import VeRiWild, SmallVeRiWild, MediumVeRiWild, LargeVeRiWild
